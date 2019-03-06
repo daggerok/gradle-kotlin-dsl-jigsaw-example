@@ -1,5 +1,5 @@
 # java 9+ modules with jigsaw plugin
-with Gradle Kotlin DSL build scripts (for some reasons not recognized in IDEA)
+Using Gradle Kotlin DSL build scripts
 
 _make sure you have java 11 in your path_
 
