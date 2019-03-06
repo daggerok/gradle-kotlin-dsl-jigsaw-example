@@ -1,0 +1,9 @@
+.idea/
+*.iml
+*.ipr
+*.iws
+*.log*
+build/
+out/
+target/
+.DS_Store
